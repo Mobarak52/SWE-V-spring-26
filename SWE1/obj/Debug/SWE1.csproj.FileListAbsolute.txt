@@ -1,0 +1,7 @@
+F:\SWE-V\SWE-V-spring-26\SWE1\bin\Debug\SWE1.exe.config
+F:\SWE-V\SWE-V-spring-26\SWE1\bin\Debug\SWE1.exe
+F:\SWE-V\SWE-V-spring-26\SWE1\bin\Debug\SWE1.pdb
+F:\SWE-V\SWE-V-spring-26\SWE1\obj\Debug\SWE1.csproj.AssemblyReference.cache
+F:\SWE-V\SWE-V-spring-26\SWE1\obj\Debug\SWE1.csproj.CoreCompileInputs.cache
+F:\SWE-V\SWE-V-spring-26\SWE1\obj\Debug\SWE1.exe
+F:\SWE-V\SWE-V-spring-26\SWE1\obj\Debug\SWE1.pdb
